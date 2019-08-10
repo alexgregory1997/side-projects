@@ -1,0 +1,11 @@
+Run Name: Example        Date: 10-08-19        Time: 19:57
+--------------------------------------------------------------------------------
+PARAMETERS 
+    Lattice length: 300
+    Lattice points: 90000
+OUTPUT 
+      Cluster size: 2694
+    Cluster radius: 105.19030373565806
+    Execution time: 78.87975 sec
+FIGURES
+          Colormap: Example-cmap.png 
