@@ -8,8 +8,6 @@ The program consists of two components:
 
 ### Background
 
----
-
 Subject to conditions, complicated structures, such as snowflakes, can grow. This is in spite of a relatively simple growth process.
 
 In the case of snowflakes, adjacent water molecules attach to an initial nucleus. This reduces the pressure surrounding the snowflake. Equilibrium is achieved by water molecules diffusing into this region and hence increasing the size of the structure.
@@ -17,8 +15,6 @@ In the case of snowflakes, adjacent water molecules attach to an initial nucleus
 DLA simulates (i) the random motion of particles (diffusion) and, (ii) growth is proportional to particle flux. It can also be used to study fractal geometry (not currently implemented).
 
 ### Implementation
-
----
 
 The DLA process is simulated via:
 
@@ -30,8 +26,6 @@ The DLA process is simulated via:
 Note, the colour of the particles change throughout the simulation to represent the time evolution of particle deposition.
 
 ### Example
-
----
 
 To execute:
 
@@ -49,12 +43,8 @@ PNG file:
 
 ### Authors
 
----
-
 - A Gregory
 
 ### Acknowledgements
-
----
 
 - M Probert, University of York
