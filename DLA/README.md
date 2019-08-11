@@ -1,4 +1,4 @@
-### Diffusion-limited Aggregation (DLA) Simulation
+## Diffusion-limited Aggregation (DLA) Simulation
 
 ---
 
@@ -6,7 +6,7 @@ The program consists of two components:
 1. Directory and file management system
 1. 2D DLA simulation of dendritic growth
 
-#### Background
+### Background
 
 ---
 
@@ -16,7 +16,7 @@ In the case of snowflakes, adjacent water molecules attach to an initial nucleus
 
 DLA simulates (i) the random motion of particles (diffusion) and, (ii) growth is proportional to particle flux. It can also be used to study fractal geometry (not currently implemented).
 
-#### Implementation
+### Implementation
 
 ---
 
@@ -29,7 +29,7 @@ The DLA process is simulated via:
 
 Note, the colour of the particles change throughout the simulation to represent the time evolution of particle deposition.
 
-#### Example
+### Example
 
 ---
 
@@ -47,13 +47,13 @@ Data file:
 PNG file:
 ![Image Name](Images/Big-example.png)
 
-#### Authors
+### Authors
 
 ---
 
 - A Gregory
 
-#### Acknowledgements
+### Acknowledgements
 
 ---
 
