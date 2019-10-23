@@ -35,10 +35,10 @@ python dla.py
 
 Input __runName__ and lattice __length__. Within the newly created __runName__ directory will be two files. One containing simulation run information and the other a PNG of the cluster.
 
-Data file: <br/>
+PNG file: <br/>
 <img src="Images/Big-cmap.png" width="200">
 
-PNG file: <br/>
+DATA file: <br/>
 <img src="Images/Big-example.png" width="250">
 
 ### Authors
