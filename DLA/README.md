@@ -8,7 +8,7 @@ The program consists of two components:
 
 ### Background
 
-Subject to conditions, complicated structures, such as snowflakes, can grow. This is in spite of a relatively simple growth process.
+Subject to certain conditions, complicated structures such as snowflakes can grow. This is in spite of a relatively simple growth process.
 
 In the case of snowflakes, adjacent water molecules attach to an initial nucleus. This reduces the pressure surrounding the snowflake. Equilibrium is achieved by water molecules diffusing into this region and hence increasing the size of the structure.
 
